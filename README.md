@@ -21,14 +21,28 @@ Nesse projeto, o usuário deverá ser hábil a:
 * [Gravatar Image](https://br.gravatar.com/site/implement/images/)
 ---
 
-### 🔗 Link do game
-* [Trivia](https://queite.github.io/trivia/)
 
----
 
 ### 🔎 Project Preview
 ![App Screenshot](./Trivia.gif)
 
 &nbsp;
+### 🔗 Link do game
+* [Trivia](https://queite.github.io/trivia/)
+
+---
+## :pushpin: Rodando localmente
+Clone o projeto e entre no diretório
+```bash
+  git clone git@github.com:Jacqueline-Silva/trivia.git && cd trivia
+```
+Instale as dependências
+```bash
+  npm install
+```
+Inicie a aplicação
+```bash
+  npm run start
+```
 
 Esse projeto foi desenvolvido guiado a testes Cypress, desenvolvidos pela Trybe. Foi necessário entender os testes para cumprir com os requisitos.
