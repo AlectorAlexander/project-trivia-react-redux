@@ -27,7 +27,7 @@ Nesse projeto, o usuário deverá ser hábil a:
 ---
 
 ### 🔎 Project Preview
-![App Screenshot](./src/image/Trivia.gif)
+![App Screenshot](./Trivia.gif)
 
 &nbsp;
 
