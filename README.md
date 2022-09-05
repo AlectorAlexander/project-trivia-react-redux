@@ -34,7 +34,7 @@ Nesse projeto, o usuário deverá ser hábil a:
 ## :pushpin: Rodando localmente
 Clone o projeto e entre no diretório
 ```bash
-  git clone git@github.com:Jacqueline-Silva/trivia.git && cd trivia
+  git clone git@github.com:AlectorAlexander/project-trivia-react-redux.git && cd project-trivia-react-redux
 ```
 Instale as dependências
 ```bash
