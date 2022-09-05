@@ -1,9 +1,9 @@
 # TRIVIA ❓
 
-Projeto Front-End, em que o desafio era fazer um game de perguntas e respostas, baseado no game Trivia. Foi desenvolvido enquanto estudante na escola [Trybe](https://www.betrybe.com/), em conjunto com minhas amigas/colegas [Queite](https://www.github.com/queite) e [Jacqueline](https://github.com/Jacqueline-Silva) (Obs: desenvolvemos esse projeto em uma relativa desvantagem, já que os grupos eram formados por 4 ou 5 pessoas, contudo conseguimos ser um dos primeiros grupos a entregar o projeto, batendo 100% dos requisitos obrigatórios e requisitos bônus).
+Projeto Front-End, em que o desafio foi fazer um game de perguntas e respostas, baseado no game Trivia. Foi desenvolvido enquanto estudante na escola [Trybe](https://www.betrybe.com/), em conjunto com minhas amigas/colegas [Queite](https://www.github.com/queite) e [Jacqueline](https://github.com/Jacqueline-Silva) (Obs: desenvolvemos esse projeto em uma relativa desvantagem, pois os grupos que foram formados para desenvolver esse projeto eram formados por 4 ou 5 pessoas, e nós eramos apenas 3. Contudo, conseguimos ser um dos primeiros a entregar o projeto, batendo 100% dos requisitos obrigatórios, e requisitos bônus).
 
 
-Nesse projeto, o usuário deve ser hábil a:
+Nesse projeto, o usuário deverá ser hábil a:
 * Logar e ter uma imagem de perfil do Gravatar associada ao game (caso o usuário tenha uma conta por lá) 
 * Escolher respostas às perguntas feitas pelo game.
 * Ver o tempo que falta para escolher uma resposta, e ver se houve acerto ou erro.
@@ -21,7 +21,7 @@ Nesse projeto, o usuário deve ser hábil a:
 * [Gravatar Image](https://br.gravatar.com/site/implement/images/)
 ---
 
-### 🔗 Page Link
+### 🔗 Link do game
 * [Trivia](https://queite.github.io/trivia/)
 
 ---
