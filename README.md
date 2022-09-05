@@ -1,6 +1,6 @@
 # TRIVIA ❓
 
-Projeto Front-End, em que o desafio era fazer um game de perguntas e respostas, baseado no game Trivia. Foi desenvolvido enquanto estudante na escola [Trybe](https://www.betrybe.com/), em conjunto com minhas amigas/colegas [Queite](https://https://github.com/queite) e [Jacqueline](https://github.com/Jacqueline-Silva) (Obs: desenvolvemos esse projeto em uma relativa desvantagem, já que os grupos eram formados por 4 ou 5 pessoas, contudo conseguimos ser um dos primeiros grupos a entregar o projeto, batendo 100% dos requisitos obrigatórios e requisitos bônus).
+Projeto Front-End, em que o desafio era fazer um game de perguntas e respostas, baseado no game Trivia. Foi desenvolvido enquanto estudante na escola [Trybe](https://www.betrybe.com/), em conjunto com minhas amigas/colegas [Queite](https://www.github.com/queite) e [Jacqueline](https://github.com/Jacqueline-Silva) (Obs: desenvolvemos esse projeto em uma relativa desvantagem, já que os grupos eram formados por 4 ou 5 pessoas, contudo conseguimos ser um dos primeiros grupos a entregar o projeto, batendo 100% dos requisitos obrigatórios e requisitos bônus).
 
 
 Nesse projeto, o usuário deve ser hábil a:
